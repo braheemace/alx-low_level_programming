@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - line of code using fprintf
+ * main - line of code using scanf
  * code by braheem
  * Return: 1
 */
