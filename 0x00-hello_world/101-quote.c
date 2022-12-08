@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-	scanf("and that piece of art is useful\" - Dora Korpar, 2015-10-9");
+	scanf("and that piece of art is useful\" - Dora Korpar, 2015-10-9\n");
 	return (1);
 }
