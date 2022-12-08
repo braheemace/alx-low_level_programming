@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <conio.h>
 /**
  * main - line of code using fprintf
  * code by braheem
@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-	fprintf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+	getch("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
 	return (1);
 }
