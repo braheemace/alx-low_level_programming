@@ -4,12 +4,12 @@
  * _strcat - concat 2 string
  * @dest:char
  * @src:char
- * Return:char
+ * @Return:char
  */
 char *_strcat(char *dest, char *src)
 {
 	char *s = dest;
-
+	
 	while (*dest != '\0')
 	{
 		dest++;
@@ -19,7 +19,7 @@ char *_strcat(char *dest, char *src)
 	{
 		*dest = *src;
 		dest++;
-		scr++;
+		src++;
 	}
 	*dest = '\0';
 	return (s);
